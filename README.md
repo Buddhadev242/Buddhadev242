@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C4D12AQE8R-PMD0SdVQ/article-cover_image-shrink_600_2000/0/1626934133895?e=2147483647&v=beta&t=xcXhgbXVEPbZYy7FRpsFM2-1u9Zyg-UMisumOcYkpG4">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buddhadev242&label=Profile%20views&color=0e75b6&style=flat" alt="buddhadev242" /> </p>
 
-- 🔭 I’m currently working on **FileNet P8 CPE V5.2.1Installation and Configuration on window server.**
+- 🔭 I’m currently working on **FileNet P8 Installation and Configuration on Windows server.**
 
 - 🌱 I’m currently learning **Java,Spring Boot**
 
