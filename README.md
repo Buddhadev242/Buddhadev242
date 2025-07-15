@@ -15,7 +15,7 @@
 - 📫 How to reach me **work.buddhadev@gmail.com**
 
 - 📄 Know about my experiences [https://buddhadev242.github.io/Portfolio_Website/](https://buddhadev242.github.io/Portfolio_Website/)
-- 📄 <a href="Buddhadev_kuila_Resume.pdf">DOWNLOAD RESUME</a>
+- 📄 <a href="https://buddhadev242.github.io/Portfolio_Website/Buddhadev_kuila_Resume.pdf">DOWNLOAD RESUME</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/buddhakuila242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="buddhakuila242" height="30" width="40" /></a>
