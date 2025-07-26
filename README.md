@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **work.buddhadev@gmail.com**
 
-- 📄 Know about my experiences visit my portfolio website <a href=https://buddhadevkuila-portfolio.lovable.app/>Click Me!</a>
+- 📄 Know about my experiences visit my portfolio website <a href=https://my-portfolio-website-one-drab.vercel.app/>Click Me!</a>
 - 📄 <a href="https://buddhadev242.github.io/Portfolio_Website/Buddhadev_kuila_Resume.pdf">DOWNLOAD RESUME</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
