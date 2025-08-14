@@ -1,4 +1,4 @@
-![logo](https://github.com/Buddhadev242/Buddhadev242/blob/main/Buddhadev%20Kuila%20(1).png)
+![logo](https://github.com/Buddhadev242/Buddhadev242/blob/main/3.png)
 <h1 align="center">Hi 👋, I'm Buddhadev Kuila</h1>
 <h3 align="center">A passionate Software Engineer @ TurnPikeAnalyst</h3>
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C4D12AQE8R-PMD0SdVQ/article-cover_image-shrink_600_2000/0/1626934133895?e=2147483647&v=beta&t=xcXhgbXVEPbZYy7FRpsFM2-1u9Zyg-UMisumOcYkpG4">
